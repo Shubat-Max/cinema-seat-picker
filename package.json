@@ -1,0 +1,53 @@
+{
+  "name": "cinema-seat-picker",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "immutable": "^4.0.0-rc.12",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2",
+    "react-redux": "^7.1.1",
+    "react-scripts": "3.2.0",
+    "redux": "^4.0.4",
+    "redux-thunk": "^2.3.0",
+    "styled-components": "^4.4.0",
+    "uuid": "^3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 ie version",
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "redux-logger": "^3.0.6"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shubat-Max/cinema-seat-picker.git"
+  },
+  "author": "Shubat Maksim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shubat-Max/cinema-seat-picker/issues"
+  },
+  "homepage": "https://github.com/Shubat-Max/cinema-seat-picker#readme"
+}

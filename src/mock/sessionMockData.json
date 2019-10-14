@@ -1,0 +1,159 @@
+{
+  "movieTitle": "Pulp Fiction",
+  "timestamp": "1578259800",
+  "place": {
+    "country": "Finland",
+    "city": "Helsinki",
+    "name": "Andorra"
+  },
+  "hall": {
+    "name": "HALL 1",
+    "rows": [
+      {
+        "number": 1,
+        "seats": [
+          {
+            "number": 1,
+            "skip": 1,
+            "isSelected": false,
+            "isReserved": false,
+            "isPurchased": false,
+            "price": 10.0
+          },
+          { "number": 2, "price": 15.0 },
+          { "number": 3, "price": 15.0 },
+          { "number": 4, "price": 15.0 },
+          { "number": 5, "price": 15.0 },
+          { "number": 6, "price": 15.0 },
+          { "number": 7, "price": 15.0 },
+          { "number": 8, "price": 15.0 },
+          { "number": 9, "price": 10.0 }
+        ]
+      },
+      {
+        "number": 2,
+        "seats": [
+          { "number": 1, "price": 10.0 },
+          { "number": 2, "price": 10.0 },
+          { "number": 3, "price": 15.0 },
+          { "number": 4, "price": 15.0 },
+          { "number": 5, "price": 15.0 },
+          { "number": 6, "price": 15.0 },
+          { "number": 7, "price": 15.0 },
+          { "number": 8, "price": 15.0 },
+          { "number": 9, "price": 15.0 },
+          { "number": 10, "price": 10.0 },
+          { "number": 11, "price": 10.0 }
+        ]
+      },
+      {
+        "number": 3,
+        "seats": [
+          { "number": 1, "price": 10.0 },
+          { "number": 2, "price": 10.0 },
+          { "number": 3, "price": 15.0 },
+          { "number": 4, "price": 15.0 },
+          { "number": 5, "price": 15.0 },
+          { "number": 6, "price": 15.0 },
+          { "number": 7, "price": 15.0 },
+          { "number": 8, "price": 15.0 },
+          { "number": 9, "price": 15.0 },
+          { "number": 10, "price": 10.0 },
+          { "number": 11, "price": 10.0 }
+        ]
+      },
+      {
+        "number": 4,
+        "seats": [
+          { "number": 1, "skip": 2, "price": 15.0 },
+          { "number": 2, "price": 15.0 },
+          { "number": 3, "price": 15.0 },
+          { "number": 4, "price": 15.0 },
+          { "number": 5, "price": 15.0 },
+          { "number": 6, "price": 15.0 },
+          { "number": 7, "price": 15.0 }
+        ]
+      },
+      {
+        "number": 5,
+        "seats": [
+          { "number": 1, "skip": 2, "price": 15.0 },
+          { "number": 2, "price": 15.0 },
+          { "number": 3, "price": 15.0 },
+          { "number": 4, "price": 15.0 },
+          { "number": 5, "price": 15.0 },
+          { "number": 6, "price": 15.0 },
+          { "number": 7, "price": 15.0 }
+        ]
+      },
+      {
+        "number": 6,
+        "seats": [
+          { "number": 1, "skip": 2, "price": 15.0 },
+          { "number": 2, "price": 15.0 },
+          { "number": 3, "price": 15.0 },
+          { "number": 4, "price": 15.0 },
+          { "number": 5, "price": 15.0 },
+          { "number": 6, "price": 15.0 },
+          { "number": 7, "price": 15.0 }
+        ]
+      },
+      {
+        "number": 7,
+        "seats": [
+          { "number": 1, "skip": 2, "price": 15.0 },
+          { "number": 2, "price": 15.0 },
+          { "number": 3, "price": 15.0 },
+          { "number": 4, "price": 15.0 },
+          { "number": 5, "price": 15.0 },
+          { "number": 6, "price": 15.0 },
+          { "number": 7, "price": 15.0 }
+        ]
+      },
+      {
+        "number": 8,
+        "seats": [
+          { "number": 1, "price": 10.0 },
+          { "number": 2, "price": 10.0 },
+          { "number": 3, "price": 15.0 },
+          { "number": 4, "price": 15.0 },
+          { "number": 5, "price": 15.0 },
+          { "number": 6, "price": 15.0 },
+          { "number": 7, "price": 15.0 },
+          { "number": 8, "price": 15.0 },
+          { "number": 9, "price": 15.0 },
+          { "number": 10, "price": 10.0 },
+          { "number": 11, "price": 10.0 }
+        ]
+      },
+      {
+        "number": 9,
+        "seats": [
+          {
+            "number": 1,
+            "span": 2,
+            "price": 20.0
+          },
+          {
+            "number": 2,
+            "skip": 1,
+            "span": 2,
+            "price": 20.0
+          },
+          {
+            "number": 3,
+            "skip": 1,
+            "span": 2,
+            "price": 20.0
+          },
+          {
+            "number": 4,
+            "skip": 1,
+            "span": 2,
+            "price": 20.0
+          }
+        ]
+      }
+    ]
+  }
+}
