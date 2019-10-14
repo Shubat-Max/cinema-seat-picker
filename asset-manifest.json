@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Shubat-Max/cinema-seat-picker/static/css/main.34de6062.chunk.css",
-    "main.js": "/Shubat-Max/cinema-seat-picker/static/js/main.f468d440.chunk.js",
-    "main.js.map": "/Shubat-Max/cinema-seat-picker/static/js/main.f468d440.chunk.js.map",
-    "runtime-main.js": "/Shubat-Max/cinema-seat-picker/static/js/runtime-main.1ef806d6.js",
-    "runtime-main.js.map": "/Shubat-Max/cinema-seat-picker/static/js/runtime-main.1ef806d6.js.map",
-    "static/js/2.a5b24102.chunk.js": "/Shubat-Max/cinema-seat-picker/static/js/2.a5b24102.chunk.js",
-    "static/js/2.a5b24102.chunk.js.map": "/Shubat-Max/cinema-seat-picker/static/js/2.a5b24102.chunk.js.map",
-    "index.html": "/Shubat-Max/cinema-seat-picker/index.html",
-    "precache-manifest.720c4b587794141dd7ab6bce0e916b5b.js": "/Shubat-Max/cinema-seat-picker/precache-manifest.720c4b587794141dd7ab6bce0e916b5b.js",
-    "service-worker.js": "/Shubat-Max/cinema-seat-picker/service-worker.js",
-    "static/css/main.34de6062.chunk.css.map": "/Shubat-Max/cinema-seat-picker/static/css/main.34de6062.chunk.css.map"
+    "main.css": "/cinema-seat-picker/static/css/main.34de6062.chunk.css",
+    "main.js": "/cinema-seat-picker/static/js/main.a04b4aec.chunk.js",
+    "main.js.map": "/cinema-seat-picker/static/js/main.a04b4aec.chunk.js.map",
+    "runtime-main.js": "/cinema-seat-picker/static/js/runtime-main.88c1591e.js",
+    "runtime-main.js.map": "/cinema-seat-picker/static/js/runtime-main.88c1591e.js.map",
+    "static/js/2.c0495861.chunk.js": "/cinema-seat-picker/static/js/2.c0495861.chunk.js",
+    "static/js/2.c0495861.chunk.js.map": "/cinema-seat-picker/static/js/2.c0495861.chunk.js.map",
+    "index.html": "/cinema-seat-picker/index.html",
+    "precache-manifest.b894b2b8befe8ae2f62ec594a1a52d1d.js": "/cinema-seat-picker/precache-manifest.b894b2b8befe8ae2f62ec594a1a52d1d.js",
+    "service-worker.js": "/cinema-seat-picker/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/cinema-seat-picker/static/css/main.34de6062.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.1ef806d6.js",
-    "static/js/2.a5b24102.chunk.js",
+    "static/js/runtime-main.88c1591e.js",
+    "static/js/2.c0495861.chunk.js",
     "static/css/main.34de6062.chunk.css",
-    "static/js/main.f468d440.chunk.js"
+    "static/js/main.a04b4aec.chunk.js"
   ]
 }
