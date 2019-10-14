@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "93906c44e3a34687873dfeaeaf51a930",
+    "revision": "e206ffddbc545c1299ec6ed13e062411",
     "url": "/cinema-seat-picker/index.html"
   },
   {
