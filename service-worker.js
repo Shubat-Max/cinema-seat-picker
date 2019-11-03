@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cinema-seat-picker/precache-manifest.04de057e8113be69b3cb7154ca481dd6.js"
+  "/cinema-seat-picker/precache-manifest.3bfa19ce0a0ef7e09753eee5c26241d5.js"
 );
 
 self.addEventListener('message', (event) => {

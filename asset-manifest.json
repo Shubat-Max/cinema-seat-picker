@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cinema-seat-picker/static/css/main.34de6062.chunk.css",
-    "main.js": "/cinema-seat-picker/static/js/main.a04b4aec.chunk.js",
-    "main.js.map": "/cinema-seat-picker/static/js/main.a04b4aec.chunk.js.map",
+    "main.js": "/cinema-seat-picker/static/js/main.5f7fd2c5.chunk.js",
+    "main.js.map": "/cinema-seat-picker/static/js/main.5f7fd2c5.chunk.js.map",
     "runtime-main.js": "/cinema-seat-picker/static/js/runtime-main.88c1591e.js",
     "runtime-main.js.map": "/cinema-seat-picker/static/js/runtime-main.88c1591e.js.map",
     "static/js/2.c0495861.chunk.js": "/cinema-seat-picker/static/js/2.c0495861.chunk.js",
     "static/js/2.c0495861.chunk.js.map": "/cinema-seat-picker/static/js/2.c0495861.chunk.js.map",
     "index.html": "/cinema-seat-picker/index.html",
-    "precache-manifest.04de057e8113be69b3cb7154ca481dd6.js": "/cinema-seat-picker/precache-manifest.04de057e8113be69b3cb7154ca481dd6.js",
+    "precache-manifest.3bfa19ce0a0ef7e09753eee5c26241d5.js": "/cinema-seat-picker/precache-manifest.3bfa19ce0a0ef7e09753eee5c26241d5.js",
     "service-worker.js": "/cinema-seat-picker/service-worker.js",
     "static/css/main.34de6062.chunk.css.map": "/cinema-seat-picker/static/css/main.34de6062.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.88c1591e.js",
     "static/js/2.c0495861.chunk.js",
     "static/css/main.34de6062.chunk.css",
-    "static/js/main.a04b4aec.chunk.js"
+    "static/js/main.5f7fd2c5.chunk.js"
   ]
 }

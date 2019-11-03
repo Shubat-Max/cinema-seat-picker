@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e206ffddbc545c1299ec6ed13e062411",
+    "revision": "a52dfb893b0ec932052e19fa944e14bb",
     "url": "/cinema-seat-picker/index.html"
   },
   {
-    "revision": "270d54c865cefd0daaf8",
+    "revision": "5da40f2b13bcfc0274e9",
     "url": "/cinema-seat-picker/static/css/main.34de6062.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cinema-seat-picker/static/js/2.c0495861.chunk.js"
   },
   {
-    "revision": "270d54c865cefd0daaf8",
-    "url": "/cinema-seat-picker/static/js/main.a04b4aec.chunk.js"
+    "revision": "5da40f2b13bcfc0274e9",
+    "url": "/cinema-seat-picker/static/js/main.5f7fd2c5.chunk.js"
   },
   {
     "revision": "59dd57e527c591707806",
