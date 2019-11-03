@@ -14,3 +14,5 @@ export const StyledPicker = styled.div`
   background: #24262c;
   flex: 1;
 `;
+
+PageWrapper.displayName = "PageWrapper";

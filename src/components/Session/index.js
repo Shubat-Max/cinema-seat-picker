@@ -7,7 +7,7 @@ import { connect } from "react-redux";
 import { loadSessionStart, loadSessionSuccess } from "../../actions/session";
 import Loader from "../Loader";
 
-const Session = ({
+export const Session = ({
   loadSessionStart,
   loadSessionSuccess,
   loading,

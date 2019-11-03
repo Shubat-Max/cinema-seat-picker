@@ -9,14 +9,14 @@ function App() {
 
   return (
     <Provider store={store}>
-      <Main>
+      <Root>
         <Session />
-      </Main>
+      </Root>
     </Provider>
   );
 }
 
-const Main = styled.div`
+const Root = styled.div`
   min-height: 100%;
   height: 100vh;
   min-width: 100%;

@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
+    "enzyme-adapter-react-16": "^1.15.1",
     "immutable": "^4.0.0-rc.12",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
@@ -18,8 +19,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-	"predeploy": "npm run build",
-	"deploy": "gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -38,8 +39,11 @@
     ]
   },
   "devDependencies": {
+    "react-test-renderer": "^16.10.2",
+    "enzyme": "^3.10.0",
     "gh-pages": "^2.1.1",
-    "redux-logger": "^3.0.6"
+    "redux-logger": "^3.0.6",
+    "@types/jest": "^24.0.19"
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
